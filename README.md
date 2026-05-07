@@ -1,23 +1,21 @@
 <p align="center">
-  <img src="https://github-banner-url/github-banner.png" width="100%" alt="Banner"/>
+  <img src="https://github.com/arifaslamdev/arifaslamdev/blob/main/github-banner.png" width="100%" alt="Banner"/>
 </p>
 
 <h1 align="center">
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/arifaslamdev">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&random=false&width=700&height=70&lines=Hi+%F0%9F%91%8B+I'm+Arif;Senior+.NET+Backend+Architect;ERP+%7C+FinTech+%7C+Scalable+Systems" alt="Typing SVG" />
   </a>
 </h1>
 
 <p align="center">
-  <a href="https://www.upwork.com/freelancers/your-profile" target="_blank">
+  <a href="https://www.upwork.com/freelancers/~01e47a43df9cae032f" target="_blank">
     <img src="https://img.shields.io/badge/Upwork-Hire_Me-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:shohag0310@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  
 </p>
 
 ---
@@ -60,19 +58,26 @@ Multi-tenant SaaS Architecture
 
 ### 🛠️ Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,csharp,aspnet,visualstudio" alt=".NET Ecosystem" title=".NET Ecosystem"/>
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=sqlserver,postgres,redis,mongodb" alt="Databases" title="Databases"/>
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,aws" alt="Cloud & DevOps" title="Cloud & DevOps"/>
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=react,angular,vue,typescript" alt="Frontend" title="Frontend"/>
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket" alt="Version Control" title="Version Control"/>
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=java,spring,android" alt="Additional" title="Additional"/>
-</p>
+**Backend & Frameworks**
+
+![.NET](https://skillicons.dev/icons?i=dotnet&theme=light) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt="ASP.NET Core" height="40"/> <img src="https://img.shields.io/badge/EF_Core-512384?style=flat-square&logo=.NET&logoColor=white" alt="Entity Framework" height="40"/> ![Java](https://skillicons.dev/icons?i=java&theme=light) ![Spring](https://skillicons.dev/icons?i=spring&theme=light) ![PHP](https://skillicons.dev/icons?i=php&theme=light) ![JavaScript](https://skillicons.dev/icons?i=javascript&theme=light)
+
+**Databases**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" height="40"/> ![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=light) ![MySQL](https://skillicons.dev/icons?i=mysql&theme=light) ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=light) ![Redis](https://skillicons.dev/icons?i=redis&theme=light) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="Oracle" height="40"/>
+
+**Cloud & DevOps**
+
+![Azure](https://skillicons.dev/icons?i=azure&theme=light) ![AWS](https://skillicons.dev/icons?i=amazonwebservices&theme=light) ![Docker](https://skillicons.dev/icons?i=docker&theme=light) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes&theme=light) ![Linux](https://skillicons.dev/icons?i=linux&theme=light) ![Nginx](https://skillicons.dev/icons?i=nginx&theme=light)
+
+**Frontend**
+
+![React](https://skillicons.dev/icons?i=react&theme=light) ![Angular](https://skillicons.dev/icons?i=angular&theme=light) ![Vue](https://skillicons.dev/icons?i=vue&theme=light) ![TypeScript](https://skillicons.dev/icons?i=typescript&theme=light) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" alt="Blazor" height="40"/> ![Bootstrap](https://skillicons.dev/icons?i=bootstrap&theme=light) ![HTML](https://skillicons.dev/icons?i=html&theme=light) ![CSS](https://skillicons.dev/icons?i=css&theme=light)
+
+**Tools & Platforms**
+
+![Git](https://skillicons.dev/icons?i=git&theme=light) ![GitHub](https://skillicons.dev/icons?i=github&theme=light) ![GitLab](https://skillicons.dev/icons?i=gitlab&theme=light) ![VS Code](https://skillicons.dev/icons?i=vscode&theme=light) ![Android Studio](https://skillicons.dev/icons?i=androidstudio&theme=light) ![Postman](https://skillicons.dev/icons?i=postman&theme=light)
+
 
 <details>
 <summary><b>📦 Full Technology Inventory</b></summary>
@@ -171,15 +176,13 @@ Multi-tenant SaaS Architecture
 If you need a backend architect who makes the right technical decisions and delivers systems that work reliably in production — let's talk.
 
 <p align="center">
-  <a href="https://www.upwork.com/freelancers/your-profile">
+  <a href="https://www.upwork.com/freelancers/~01e47a43df9cae032f">
     <img src="https://img.shields.io/badge/Upwork-Profile-14A800?style=flat-square&logo=upwork&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:shohagh0310@gmail.com">
     <img src="https://img.shields.io/badge/Email-your--email@example.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-your--profile-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
+  
 </p>
 
 ---
