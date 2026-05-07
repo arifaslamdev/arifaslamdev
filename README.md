@@ -166,7 +166,7 @@ If you need a backend architect who makes the right technical decisions and deli
     <img src="https://img.shields.io/badge/Upwork-Profile-14A800?style=flat-square&logo=upwork&logoColor=white" />
   </a>
   <a href="mailto:shohagh0310@gmail.com">
-    <img src="https://img.shields.io/badge/Email-your--email@example.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-your--shohag0310@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   
 </p>
