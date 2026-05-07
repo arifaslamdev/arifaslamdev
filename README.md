@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://arifaslamdev.github.io" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/281409711?v=4" alt="Website" />
+    <img src="https://img.shields.io/badge/web-web-D14836?style=for-the-badge&logo=web&logoColor=white" alt="web" />
   </a>
    
 </p>
