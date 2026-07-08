@@ -24,7 +24,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Senior .NET Backend Developer** with **13+ years** of experience building, fixing, and scaling backend systems for **ERP, FinTech, Microfinance, SaaS, Logistics, and Business Automation** platforms.
+I'm a **Senior .NET Backend Developer** with **17+ years** of experience building, fixing, and scaling backend systems for **ERP, FinTech, Microfinance, SaaS, Logistics, and Business Automation** platforms.
 
 My strongest expertise is in **backend development, API engineering, database design, SQL optimization, clean architecture, and production-ready business systems** using **C#, .NET 8, ASP.NET Core Web API, SQL Server, PostgreSQL, Entity Framework Core, CQRS, and Clean Architecture**.
 
